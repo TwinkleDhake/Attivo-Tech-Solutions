@@ -1,0 +1,15 @@
+====== OFFLINE SHOPPING RECEIPT ======
+
+Date & Time: 2025-06-09 17:15:54
+
+--------------------------------------
+Okra x 1 = ₹30.00
+Belgium Waffles x 1 = ₹150.00
+Lo'Real Paris Shampoo x 1 = ₹780.00
+--------------------------------------
+Bag Charge       = ₹10
+TOTAL AMOUNT     = ₹970.00
+Payment Method   = Debit Card
+
+Thank you for shopping with us!
+======================================
