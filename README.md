@@ -1,2 +1,2 @@
 # Attivo Trainning
-Contains all my Trainning Coding Tasks and Projects
+Contains all my Training Coding Tasks and Projects
